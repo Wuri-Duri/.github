@@ -14,7 +14,8 @@
 <br>
 <br>
 
-![우리두리](https://github.com/Wuri-Duri/Frontend/assets/55133871/542c3300-d108-4bff-874b-8dcd17f13f9f)
+![poster](https://github.com/Wuri-Duri/Frontend/assets/55133871/ee88805c-dfb7-4863-ae26-19898951a87a)
+[더 자세히 살펴보고 싶다면?](https://linktr.ee/wuri.duri)
 
 <br>
 <br>
@@ -46,7 +47,7 @@
 
 ## 🐥 개발자들
 
-|**✨[김지윤](https://github.com/0214jj)✨**|**🍻[김세은](https://github.com/seeun00)🍻**|**⚡[장세영](https://github.com/Say-young)⚡**|
+|**✨[김지윤](https://github.com/nouyeej)✨**|**🍻[김세은](https://github.com/seeun00)🍻**|**⚡[장세영](https://github.com/Say-young)⚡**|
 | :----------------------------------------: | :-----------------------------------------: | :-------------------------------------------: |
 | ![jeeyun](https://user-images.githubusercontent.com/55133871/205552725-930b9d82-a8d2-42d7-a552-c7c2591de0d0.png) | ![seeun](https://user-images.githubusercontent.com/55133871/205552659-24cf7dc4-6f81-4d1a-8940-52117e4dcdb0.png) | ![seyoung](https://user-images.githubusercontent.com/55133871/205552749-7652fbfc-2460-4c68-8f57-6df65f482986.png) |
 |          팀장&프론트       |         AI          |          디자인&서버&프론트       |
